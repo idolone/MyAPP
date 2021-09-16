@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="add_label">添加记事</string>
+    <string name="main_label">记事列表</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string-array name="cities">
+        <item>北京</item>
+        <item>天津</item>
+        <item>哈尔滨</item>
+        <item>沈阳</item>
+        <item>石家庄</item>
+        <item>兰州</item>
+        <item>郑州</item>
+        <item>太原</item>
+        <item>长沙</item>
+        <item>南京</item>
+        <item>贵阳</item>
+        <item>杭州</item>
+        <item>广州</item>
+        <item>台北</item>
+    </string-array>
+</resources>

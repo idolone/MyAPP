@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myfish" />
+            <option value="$PROJECT_DIR$/myfragment" />
+            <option value="$PROJECT_DIR$/myfragmentcomm" />
+            <option value="$PROJECT_DIR$/mylistfragment" />
+            <option value="$PROJECT_DIR$/mylistview1" />
+            <option value="$PROJECT_DIR$/mylistviewbaseadapter" />
+            <option value="$PROJECT_DIR$/mylistviewsimpleadapter" />
+            <option value="$PROJECT_DIR$/mylogin" />
+            <option value="$PROJECT_DIR$/mymenu" />
+            <option value="$PROJECT_DIR$/mynote" />
+            <option value="$PROJECT_DIR$/myrecycleadapter" />
+            <option value="$PROJECT_DIR$/myscore" />
+            <option value="$PROJECT_DIR$/mysharedpreference" />
+            <option value="$PROJECT_DIR$/mytest" />
+            <option value="$PROJECT_DIR$/mytest1" />
+            <option value="$PROJECT_DIR$/mytest12" />
+            <option value="$PROJECT_DIR$/mytestsaveinstance" />
+            <option value="$PROJECT_DIR$/mytestviewmodel" />
+            <option value="$PROJECT_DIR$/myviewmodel" />
+            <option value="$PROJECT_DIR$/myviewmodel1" />
+            <option value="$PROJECT_DIR$/myviewmodeldatabinding" />
+            <option value="$PROJECT_DIR$/myviewmodelwithlivedata" />
+            <option value="$PROJECT_DIR$/myviewmodesavedstate" />
+            <option value="$PROJECT_DIR$/myviewmodesp" />
+            <option value="$PROJECT_DIR$/myweather" />
+            <option value="$PROJECT_DIR$/myweather/mytest1" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

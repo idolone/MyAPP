@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string-array name="myStringArr">
+        <item>"first"</item>
+        <item>"second"</item>
+        <item>"third"</item>
+        <item>"forth"</item>
+        <item>"fifth"</item>
+    </string-array>
+</resources>

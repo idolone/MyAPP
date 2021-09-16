@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="25sp"
+        android:background="@drawable/text_bg_red"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:typeface="serif"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入用户名"
+        android:textSize="@dimen/TextHeight"
+        android:textColor="@color/Gray"
+        android:background="@drawable/edit_text_bg"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="click"
+        style="@style/MyButtonStyle"
+        />
+
+</LinearLayout>

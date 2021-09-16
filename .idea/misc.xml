@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MyAPP/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myfragment/src/main/res/layout/activity_main.xml" value="0.14895833333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myfragment/src/main/res/layout/fragment_dialog.xml" value="0.184375" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myfragmentcomm/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myfragmentcomm/src/main/res/layout/fragment_blank.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylistfragment/src/main/res/layout/activity_main.xml" value="0.16983695652173914" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylistfragment/src/main/res/layout/fragment_1.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylistfragment/src/main/res/layout/fragment_item.xml" value="0.16983695652173914" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylistfragment/src/main/res/layout/fragment_item_list.xml" value="0.16983695652173914" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylogin/src/main/res/drawable/btn_bg.xml" value="0.1425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylogin/src/main/res/drawable/btn_bg_selector.xml" value="0.20833333333333334" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylogin/src/main/res/drawable/edit_text_bg.xml" value="0.1425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylogin/src/main/res/drawable/ic_launcher_background.xml" value="0.20833333333333334" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mylogin/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/drawable/btn_bg_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/drawable/edit_text_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/activity_add.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/activity_add2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/activity_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/list_item_dialog_layout.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/list_item_gridlayout.xml" value="0.10869565217391304" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/layout/list_item_layout.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mynote/src/main/res/menu/menu_main.xml" value="0.12135416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myscore/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myscore/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mysharedpreference/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest/src/main/res/drawable/edit_text_bg.xml" value="0.12777777777777777" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest/src/main/res/drawable/text_bg_red.xml" value="0.14074074074074075" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest12/src/main/res/layout/activity_main.xml" value="0.16614583333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest12/src/main/res/layout/fragment_blank1.xml" value="0.16614583333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytest12/src/main/res/layout/fragment_blank2.xml" value="0.1515625" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytestsaveinstance/src/main/res/layout-land/activity_main.xml" value="0.22916666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytestsaveinstance/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/mytestviewmodel/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodel/src/main/res/layout-land/activity_main.xml" value="0.13315696649029982" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodel/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodel1/src/main/res/layout/activity_main.xml" value="0.14114583333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodeldatabinding/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodelwithlivedata/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodesavedstate/src/main/res/layout/activity_main.xml" value="0.1638888888888889" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myviewmodesp/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2015625" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2015625" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2015625" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/drawable/ic_launcher_background.xml" value="0.2015625" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2015625" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/layout/fragment_dashboard.xml" value="0.18478260869565216" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/layout/fragment_home.xml" value="0.18478260869565216" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/layout/fragment_notifications.xml" value="0.18478260869565216" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/mytest1/src/main/res/menu/bottom_nav_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/src/main/res/layout/activity_tips.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/src/main/res/layout/sp_item_layout.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/src/main/res/layout/tips_item_layout.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAPP/myweather/src/main/res/layout/weather_item_layout.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

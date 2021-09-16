@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+    <string name="alert_dialog">alert dialog</string>
+    <string name="date_dialog">date_dialog</string>
+    <string name="time_dialog">time_dialog</string>
+    <string name="create_dialog">Create Dialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
